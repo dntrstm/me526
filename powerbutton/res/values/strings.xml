@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">关机重启</string>
+    <string name="title">关机重启</string>
+    <string name="message">立即重启还是关机？</string>
+    <string name="reboot">重启</string>
+    <string name="shutdown">关机</string>
+    <string name="cancel">取消</string>
+
+</resources>
